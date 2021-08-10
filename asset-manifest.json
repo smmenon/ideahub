@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/ideahub/static/js/main.148f5406.chunk.js",
+    "main.js.map": "/ideahub/static/js/main.148f5406.chunk.js.map",
+    "runtime-main.js": "/ideahub/static/js/runtime-main.1c7c77d7.js",
+    "runtime-main.js.map": "/ideahub/static/js/runtime-main.1c7c77d7.js.map",
+    "static/css/2.d3ab76f8.chunk.css": "/ideahub/static/css/2.d3ab76f8.chunk.css",
+    "static/js/2.956c3de2.chunk.js": "/ideahub/static/js/2.956c3de2.chunk.js",
+    "static/js/2.956c3de2.chunk.js.map": "/ideahub/static/js/2.956c3de2.chunk.js.map",
+    "index.html": "/ideahub/index.html",
+    "static/css/2.d3ab76f8.chunk.css.map": "/ideahub/static/css/2.d3ab76f8.chunk.css.map",
+    "static/js/2.956c3de2.chunk.js.LICENSE.txt": "/ideahub/static/js/2.956c3de2.chunk.js.LICENSE.txt",
+    "static/media/Samarkan.fcba438b.TTF": "/ideahub/static/media/Samarkan.fcba438b.TTF",
+    "static/media/SideImage1.0c6add95.png": "/ideahub/static/media/SideImage1.0c6add95.png",
+    "static/media/font-awesome.min.css": "/ideahub/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/google.a4fa9b6f.svg": "/ideahub/static/media/google.a4fa9b6f.svg",
+    "static/media/logo.31df0ce8.svg": "/ideahub/static/media/logo.31df0ce8.svg",
+    "static/media/navaritih_pyramid.2cf111ec.png": "/ideahub/static/media/navaritih_pyramid.2cf111ec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c7c77d7.js",
+    "static/css/2.d3ab76f8.chunk.css",
+    "static/js/2.956c3de2.chunk.js",
+    "static/js/main.148f5406.chunk.js"
+  ]
+}
